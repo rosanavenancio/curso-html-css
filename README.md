@@ -1,2 +1,3 @@
 # curso-html-css
-novo
+Projeto desenvolvido durante o curso de HTML e CSS
+do professor Gustavo Guanabara.
